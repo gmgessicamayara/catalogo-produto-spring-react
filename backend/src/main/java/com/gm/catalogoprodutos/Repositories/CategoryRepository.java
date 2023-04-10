@@ -1,4 +1,4 @@
-package com.gm.catalogoprodutos.Repositories;
+package com.gm.catalogoprodutos.repositories;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
